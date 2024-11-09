@@ -457,13 +457,6 @@ const BLOG = {
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
-      name: '我层踏月而来，只因你在山中',
-      artist: 'Yzz李轶哲、Yzz Beats、ADG',
-      url: 'https://el-sycdn.kuwo.cn/31325b1b33a506afd293e39bc8b26ff4/672f0fa9/resource/n2/61/26/2432464395.mp3',
-      cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    },
-     {
       name: '空山-野马',
       artist: 'Bethybai / AT.H',
       url: 'https://m704.music.126.net/20241109162800/33e0ba88529ace51e4d00ddcdedb3d91/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/46097735888/9a9c/3bc4/893f/d35faaea26ee5e4734ca9eb1ed104b8d.mp3?authSecret=000001930ff2a5bb04750a3b1e8c514f',
