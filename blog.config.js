@@ -382,49 +382,42 @@ const BLOG = {
      {
       name: '晚霞',
       artist: 'WR-锐',
-      url: 'https://m804.music.126.net/20241109161142/bc268be42bafd1b36eaef143d9392f09/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1679758227/61ea/ec34/28d1/11de42cc614e7f7aa9cd6d43f2e6fc98.mp3?authSecret=000001930fe3ba551c2d0a3b19401e28',
+      url: 'https://m804.music.126.net/20241109165723/f76f8f7bc9560e4a80a8b5239d2f59cd/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1679758227/61ea/ec34/28d1/11de42cc614e7f7aa9cd6d43f2e6fc98.mp3?authSecret=00000193100d8bc60fc80a3b1e4f53fd',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
       name: '夏雨季',
       artist: 'WR-锐',
-      url: 'https://m10.music.126.net/20241109161219/a762c06901e2cc43dcebc0cc77e3e7b1/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/2305230294/2141/f91f/2459/48ee2fa5d7721765acb680ae45109c2f.mp3',
+      url: 'https://m10.music.126.net/20241109165810/1c1817eee5b3dcc98537632052ac0202/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/2305230294/2141/f91f/2459/48ee2fa5d7721765acb680ae45109c2f.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
       name: '夏雨天',
       artist: 'WR-锐',
-      url: 'https://m804.music.126.net/20241109161305/b738702066087169c668884cb8b1a85f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5835437343/d512/f03a/e71f/367b03b8cb073272323fb8a67299465a.mp3?authSecret=000001930fe4fc82041c0a3b1da011cf',
+      url: 'https://m804.music.126.net/20241109165825/ed142b68ce6decaec68d9e718343aaf0/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5835437343/d512/f03a/e71f/367b03b8cb073272323fb8a67299465a.mp3?authSecret=00000193100e7d6c14070a3b1e17ae48',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
-      name: '归隐',
+      name: '问隐',
       artist: 'WR-锐',
-      url: 'https://m10.music.126.net/20241109161343/4fdce69f00b6e68b864e764266403478/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3614528500/4831/d2c8/fbf2/51a2e5daeacd1903699ab8c26c19e941.mp3',
+      url: 'https://m10.music.126.net/20241109165855/36971bdca0be662af3a4bc66de7db34f/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3614528500/4831/d2c8/fbf2/51a2e5daeacd1903699ab8c26c19e941.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
       name: 'waterball',
       artist: ' - 施仁Shiva',
-      url: 'https://m704.music.126.net/20241109161510/77d725a38566f9f316af5b77c61f517f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13374101902/f4dd/778d/83c1/16753695ced4ea4ce1c21b087c6ca000.mp3?authSecret=000001930fe6e4971d170a3b1d910f1d',
-      cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    },
-     {
-      name: 'Call of Silence（Clear Sky Remix） 伴奏 ',
-      artist: '- Clear Sky',
-      url: 'https://m804.music.126.net/20241109162004/4e84cf038e7fba4623f033c6b32bf7ec/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31510539081/5929/5aa3/4dd2/bff9944bb1dd9859a8625b0d3bc0b791.mp3?authSecret=000001930feb608e1e490a3085001b95',
+      url: 'https://m704.music.126.net/20241109170005/cf7fdff46806bddfa67ec7561eeb1a17/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34706105913/f026/28ba/682c/4266f09bf3806d7b31c9ad14a3757077.mp3?authSecret=00000193101005fd16ac0a3b1db8e120',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
       name: 'Call of Silence',
       artist: '- Clear Sky',
-      url: 'https://m704.music.126.net/20241109162100/b03e639711d9b09b7c466dab0b0bdfcc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31532072980/47f0/0d9f/d4db/3dc88f94df13509195701f79665e4432.mp3?authSecret=000001930fec3b461b7c0a8a818d0006',
+      url: 'https://m704.music.126.net/20241109170047/5f5cd60af613b9d07cfd7fd13a6f962c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31532078121/e9da/38e3/cb23/656508badf9fe1975aecf492aa196855.mp3?authSecret=000001931010a91d117c0a32c8760006',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
@@ -438,14 +431,7 @@ const BLOG = {
      {
       name: '独缺',
       artist: '彦',
-      url: 'https://m804.music.126.net/20241109162359/5cc123cd74bbcef0ade439989afc6a32/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/25199740195/1afc/04c8/7736/1e5e5557babb6c9c466abe903a492ce9.mp3?authSecret=000001930feef6ff14240a3b191e18b4',
-      cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
-    },
-     {
-      name: '杀死那个石家庄人',
-      artist: '万青',
-      url: 'https://m804.music.126.net/20241109162440/1c5a40c8d182a8d0fc8ae42e12dffc19/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096601515/526d/c1e5/3079/c988031c0c6105e292c1c3c366e52a30.mp3?authSecret=000001930fef9851045f0a328af50006',
+      url: 'https://m804.music.126.net/20241109170143/e4740a87aaca9c9c5ec867fcee49ea54/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/25199737861/4225/ee7a/fd3c/fcfd7099327786e87c81c00dc2d80082.mp3?authSecret=00000193101184af0e240a3b1975204c',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
