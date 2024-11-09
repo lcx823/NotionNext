@@ -296,18 +296,60 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: '人间失宠',
+      artist: '昔诺',
+      url: 'https://eu-sycdn.kuwo.cn/fb2549bd89e46e4bc3728368a4cd1e8a/672f0e0f/resource/n2/15/56/1804354189.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '你还追着光吗',
+      artist: 'laser',
+      url: 'https://ci-sycdn.kuwo.cn/479cd9b92950a8c3d82813ec9455c080/672f0ec6/resource/n2/25/36/845580475.mp3',
       cover:
         'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    }, 
+    {
+      name: '起风了',
+      artist: '买辣椒也用券',
+      url: 'https://nf-sycdn.kuwo.cn/78f8a68d63317dd04df4ed90d7d75791/672f0f0c/resource/n3/39/14/2450409413.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '神临',
+      artist: ' 张申骋',
+      url: 'https://lx-sycdn.kuwo.cn/0bd300bf251e5b506ec531c2eee74cbc/672f0f47/resource/n2/51/66/3429286630.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: 'fish in the pool・花屋敷',
+      artist: 'ヘクとパスカル',
+      url: 'https://sv-sycdn.kuwo.cn/48975594446172f4a3c3880f751ad7f3/672f0f74/resource/n1/10/94/214325344.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '花与剑',
+      artist: 'JS',
+      url: 'https://el-sycdn.kuwo.cn/31325b1b33a506afd293e39bc8b26ff4/672f0fa9/resource/n2/61/26/2432464395.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '将雪',
+      artist: '国风音乐联盟',
+      url: 'https://m704.music.126.net/20241109155718/5d0e486630be106c9be1be1b9f0482cf/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5016241904/3c35/28a0/9895/218db23cf00f656952000032bb49ab00.mp3?authSecret=000001930fd689b90ad20a3084880831',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '死在旋转公寓',
+      artist: '发光曲线  ',
+      url: 'https://m804.music.126.net/20241109155646/4757bf4633b2a39261fb3b59698f8fd1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28482203317/887b/5319/1c73/57f9286065e8a0164e06e2adceffd0f7.mp3?authSecret=000001930fd60ade1af10a8ad20e0006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || true, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
