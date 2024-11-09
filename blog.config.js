@@ -434,6 +434,132 @@ const BLOG = {
       url: 'https://m10.music.126.net/20241109162146/0c1b048ebb59e835607784fcdc61c0b9/ymusic/5653/0659/0559/a9f13984ec1307b99cde235718d96e5c.mp3',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '独缺',
+      artist: '彦',
+      url: 'https://m804.music.126.net/20241109162359/5cc123cd74bbcef0ade439989afc6a32/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/25199740195/1afc/04c8/7736/1e5e5557babb6c9c466abe903a492ce9.mp3?authSecret=000001930feef6ff14240a3b191e18b4',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '杀死那个石家庄人',
+      artist: '万青',
+      url: 'https://m804.music.126.net/20241109162440/1c5a40c8d182a8d0fc8ae42e12dffc19/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096601515/526d/c1e5/3079/c988031c0c6105e292c1c3c366e52a30.mp3?authSecret=000001930fef9851045f0a328af50006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: 'Heaven',
+      artist: 'Ailee',
+      url: 'https://m704.music.126.net/20241109162554/37892b99f7d59d8e7096812b4f9a2908/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/35201572034/b4df/6495/a393/f76acdbe600013351b61b06eeb3f5c01.mp3?authSecret=000001930ff0b9e404340a3b1944ecc4',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '我层踏月而来，只因你在山中',
+      artist: 'Yzz李轶哲、Yzz Beats、ADG',
+      url: 'https://el-sycdn.kuwo.cn/31325b1b33a506afd293e39bc8b26ff4/672f0fa9/resource/n2/61/26/2432464395.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '空山-野马',
+      artist: 'Bethybai / AT.H',
+      url: 'https://m704.music.126.net/20241109162800/33e0ba88529ace51e4d00ddcdedb3d91/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/46097735888/9a9c/3bc4/893f/d35faaea26ee5e4734ca9eb1ed104b8d.mp3?authSecret=000001930ff2a5bb04750a3b1e8c514f',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '空山-禅',
+      artist: 'Bethybai / AT.H',
+      url: 'https://m804.music.126.net/20241109162854/93bf239a51d3f900426804b442819fac/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/36644097683/33ef/727b/6167/4e40828f0efa8e22b8d2f2a1906c2a51.mp3?authSecret=000001930ff3762c0a500a3084860ed9',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '樱花邮局',
+      artist: 'Bethybai / AT.H',
+      url: 'https://m804.music.126.net/20241109162942/e62657098191b8056c6fdfaabd80d328/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/10736449673/056d/acb6/3784/2cb317950f59f9b4bf48091b01197b21.mp3?authSecret=000001930ff433070c720a3b19031733',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '溺水小刀',
+      artist: 'Bethybai / AT.H',
+      url: 'http://m804.music.126.net/20241109163016/16281190c8cdffced4bcb775c7530276/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31502227745/e7d8/664a/8239/b333dfe7003fc520bb8c3c8ccaa65f83.mp3?authSecret=000001930ff4b69d19a20a3084ff18d0',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '捕鹤录',
+      artist: '黄念thinJ、AT.H',
+      url: 'https://m10.music.126.net/20241109163059/601e6df511c5d32101511a004e8d8eab/ymusic/545a/005c/560b/c0e01038e57669b90744aa4857820d95.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '空港',
+      artist: 'AT.H',
+      url: 'https://m704.music.126.net/20241109163151/df447c4a69e5b5ef911678f4fa4fbd43/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28482094094/f5e1/4369/5df5/aa53f11c604b5d042268b90dd41dd030.mp3?authSecret=000001930ff62c161ee60a3b18fb1b4b',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '归藏',
+      artist: 'Bethybai',
+      url: 'https://m704.music.126.net/20241109163314/9df2ad1e979f6e489bd2fdb86eab3d44/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28134581494/2bc6/ab51/1058/58e5e895b0fb6cd6d1e1588710d16239.mp3?authSecret=000001930ff76df206d90a30845e10d7',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '应是旷野',
+      artist: 'Bethybai',
+      url: 'https://m704.music.126.net/20241109163409/844fbd8be40189fa2f48d47f8d61c9d6/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/34139696378/5da4/08c3/f53a/f61f1fd206f2b32c70c5b6bdfcf4ee6e.mp3?authSecret=000001930ff845c6063c0a3b1e90175b',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '连山',
+      artist: 'Bethybai',
+      url: 'https://m704.music.126.net/20241109163453/320987a8720ba9fe8e23bf946575177d/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/24737630585/a9a3/d713/2393/f9aabe6c8f83e261863f8c091869c616.mp3?authSecret=000001930ff8f2310ea30a30849b26b4',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '若只如初见',
+      artist: 'Bethybai',
+      url: 'https://m10.music.126.net/20241109163604/974d48d7a1f4337f6d257664c43df913/ymusic/0108/0209/030b/6b2bc739cc5c723a33a54a8c541cb89e.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '如果',
+      artist: '菠萝赛东、Bo Peep',
+      url: 'https://m704.music.126.net/20241109163652/bc8bb5db30c9a6242d654ab4262a7632/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/7909722587/3368/516c/36e7/3443cf4f187ba523bf3eeb6ed13a0045.mp3?authSecret=000001930ffac1d71ac60a30845919dd',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '无名的人',
+      artist: '毛不易',
+      url: 'https://m10.music.126.net/20241109163937/2cf427e9897a8e857412c04620d08159/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14055857323/879f/c8b9/a30f/1dbfbc4490f8f6d243bfc815644b7e06.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '像我这样的人',
+      artist: '毛不易',
+      url: 'https://m804.music.126.net/20241109164005/596297b0c22018016d7039fa85ba07a5/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481671833/c151/c237/c6b7/f89314df74322447c4707ca18d6154f4.mp3?authSecret=000001930ffdb3910c4a0a3b1d9f1454',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '借',
+      artist: '毛不易',
+      url: 'https://m704.music.126.net/20241109164040/ebf649594f889ae1972349d144a8a17e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481666297/646a/277c/c5da/f6fd36c04d85e23e28bc71f70a618337.mp3?authSecret=000001930ffe3c1710890a3b1dad0bb0',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
