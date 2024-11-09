@@ -560,6 +560,62 @@ const BLOG = {
       url: 'https://m704.music.126.net/20241109164040/ebf649594f889ae1972349d144a8a17e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481666297/646a/277c/c5da/f6fd36c04d85e23e28bc71f70a618337.mp3?authSecret=000001930ffe3c1710890a3b1dad0bb0',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '不染',
+      artist: '毛不易',
+      url: 'https://m704.music.126.net/20241109164209/b2dfa78a669d6b22d5d93c0c22243787/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481694745/d673/8299/f50a/f53b4eac59722e8b18ccd0890ecf74cd.mp3?authSecret=000001930fff98f007bc0a3084860ed9',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '盛夏',
+      artist: ' 毛不易',
+      url: 'http://m704.music.126.net/20241109164341/002d20f908c8ca8303e537169317d476/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481781963/fe46/2737/3da4/5a903ed9a308915b80eb428c6d27280c.mp3?authSecret=000001931000feef1d6a0a3084ec25db',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '入海',
+      artist: '毛不易 ',
+      url: 'https://m10.music.126.net/20241109164414/6b4f241505c1fcce1dbb9f513497a241/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/14054057138/7318/fe38/335f/74884f7f57c22626eaefe1334f3f2fcf.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '小王',
+      artist: ' 毛不易',
+      url: 'http://m704.music.126.net/20241109164503/0c5cbb0ae5d45975888fcdcb716a6d7e/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14096455504/ab9c/465d/1d47/afb9bb4788fb0aca1359cc3d170664a0.mp3?authSecret=00000193100240a517bc0a308470222b',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '消愁',
+      artist: ' 毛不易',
+      url: 'https://m804.music.126.net/20241109164535/94a5d5150fb994605298d32618fc6ed1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481677348/4584/5bc7/168d/b3274e1450d825eb1c48748ce39e651a.mp3?authSecret=000001931002be3409870a3b188c0d68',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '她来听我的演唱会',
+      artist: ' 张学友',
+      url: 'https://m804.music.126.net/20241109164622/2dac0ac80cd589372249bad9a162aed8/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/14379786518/cade/568b/d228/9d3f11058ee5738f142c7b62034f5884.mp3?authSecret=000001931003742f1f400a32bd230006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '慢慢',
+      artist: ' 张学友',
+      url: 'https://m804.music.126.net/20241109164650/57bcb3b3d84792dd6e6b4b638a8a2054/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481791626/fb15/6881/acc8/44f39bbcb77e771a6ef3f1d90d58cbc6.mp3?authSecret=000001931003e4fc00bd0a8ae7760006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '秋意浓',
+      artist: '张学友 ',
+      url: 'https://m804.music.126.net/20241109164717/deb58385d85fc9dc3ba7093a3765324c/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/29536796153/0164/2fa2/257e/cb84c904ad36bd59dbeb61e4df52c0ce.mp3?authSecret=0000019310044c4f01050a32d6b50006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
