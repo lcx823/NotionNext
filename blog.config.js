@@ -350,6 +350,90 @@ const BLOG = {
       url: 'https://m804.music.126.net/20241109155646/4757bf4633b2a39261fb3b59698f8fd1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28482203317/887b/5319/1c73/57f9286065e8a0164e06e2adceffd0f7.mp3?authSecret=000001930fd60ade1af10a8ad20e0006',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '搁浅',
+      artist: '周杰伦',
+      url: 'https://lx-sycdn.kuwo.cn/87cef439aa597291d7f7577300eb439b/672f117b/resource/n3/29/15/4275581824.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '反方向的钟',
+      artist: '周杰伦',
+      url: 'https://sx-sycdn.kuwo.cn/46bce8e79e8a12e1e212ea346807ca02/672f1236/resource/n3/35/94/1084718486.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '说了再见',
+      artist: '周杰伦',
+      url: 'https://ra-sycdn.kuwo.cn/4bf9a70c8a9853a1dfecd5d5e1ca7cf4/672f1277/resource/n3/320/85/39/169183652.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '《从你的全世界路过》插曲扒带 ',
+      artist: 'ULY',
+      url: 'https://m804.music.126.net/20241109160951/365b654bb7dd148cd096e895176df8dd/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28481776119/dff3/a7ba/5398/784df78e1a381f7430aa91ea6a5e98b5.mp3?authSecret=000001930fe2054a03230a3b1e5aac6c',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '晚霞',
+      artist: 'WR-锐',
+      url: 'https://m804.music.126.net/20241109161142/bc268be42bafd1b36eaef143d9392f09/jdymusic/obj/w5zDlMODwrDDiGjCn8Ky/1679758227/61ea/ec34/28d1/11de42cc614e7f7aa9cd6d43f2e6fc98.mp3?authSecret=000001930fe3ba551c2d0a3b19401e28',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '夏雨季',
+      artist: 'WR-锐',
+      url: 'https://m10.music.126.net/20241109161219/a762c06901e2cc43dcebc0cc77e3e7b1/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/2305230294/2141/f91f/2459/48ee2fa5d7721765acb680ae45109c2f.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '夏雨天',
+      artist: 'WR-锐',
+      url: 'https://m804.music.126.net/20241109161305/b738702066087169c668884cb8b1a85f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5835437343/d512/f03a/e71f/367b03b8cb073272323fb8a67299465a.mp3?authSecret=000001930fe4fc82041c0a3b1da011cf',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '归隐',
+      artist: 'WR-锐',
+      url: 'https://m10.music.126.net/20241109161343/4fdce69f00b6e68b864e764266403478/ymusic/obj/w5zDlMODwrDDiGjCn8Ky/3614528500/4831/d2c8/fbf2/51a2e5daeacd1903699ab8c26c19e941.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: 'waterball',
+      artist: ' - 施仁Shiva',
+      url: 'https://m704.music.126.net/20241109161510/77d725a38566f9f316af5b77c61f517f/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/13374101902/f4dd/778d/83c1/16753695ced4ea4ce1c21b087c6ca000.mp3?authSecret=000001930fe6e4971d170a3b1d910f1d',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: 'Call of Silence（Clear Sky Remix） 伴奏 ',
+      artist: '- Clear Sky',
+      url: 'https://m804.music.126.net/20241109162004/4e84cf038e7fba4623f033c6b32bf7ec/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31510539081/5929/5aa3/4dd2/bff9944bb1dd9859a8625b0d3bc0b791.mp3?authSecret=000001930feb608e1e490a3085001b95',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: 'Call of Silence',
+      artist: '- Clear Sky',
+      url: 'https://m704.music.126.net/20241109162100/b03e639711d9b09b7c466dab0b0bdfcc/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/31532072980/47f0/0d9f/d4db/3dc88f94df13509195701f79665e4432.mp3?authSecret=000001930fec3b461b7c0a8a818d0006',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+    },
+     {
+      name: '彩虹山',
+      artist: '文雀',
+      url: 'https://m10.music.126.net/20241109162146/0c1b048ebb59e835607784fcdc61c0b9/ymusic/5653/0659/0559/a9f13984ec1307b99cde235718d96e5c.mp3',
+      cover:
+        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
