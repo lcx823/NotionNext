@@ -340,14 +340,14 @@ const BLOG = {
      {
       name: '将雪',
       artist: '国风音乐联盟',
-      url: 'https://m704.music.126.net/20241109155718/5d0e486630be106c9be1be1b9f0482cf/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5016241904/3c35/28a0/9895/218db23cf00f656952000032bb49ab00.mp3?authSecret=000001930fd689b90ad20a3084880831',
+      url: 'https://m704.music.126.net/20241109165144/5a2becd021bfaa45ea7afb7373fc20b1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/5016240719/4a0a/7cf3/0066/8219834c1155f8f304372ff7d3be5b70.mp3?authSecret=0000019310085f2617810a32cfd60006',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
      {
       name: '死在旋转公寓',
       artist: '发光曲线  ',
-      url: 'https://m804.music.126.net/20241109155646/4757bf4633b2a39261fb3b59698f8fd1/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28482203317/887b/5319/1c73/57f9286065e8a0164e06e2adceffd0f7.mp3?authSecret=000001930fd60ade1af10a8ad20e0006',
+      url: 'https://m704.music.126.net/20241109165205/bf01d7ee5edeee890cb1daaad1bcc5f3/jdymusic/obj/wo3DlMOGwrbDjj7DisKw/28482209485/bd1a/1b18/4408/1b539cb4cc9f2c9c03a01cf9cfd4ca15.mp3?authSecret=000001931008b2e701370a8ac2200006',
       cover:
         'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
     },
